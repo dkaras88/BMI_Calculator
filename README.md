@@ -1,4 +1,4 @@
 # PMICalcU
-PMI Calculator
+BMI Calculator
 
 How you can install: 
